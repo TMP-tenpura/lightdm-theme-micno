@@ -1,8 +1,0 @@
-Package: lightdm-theme-micno
-Version: 0.1.0
-Architecture: all
-Maintainer: TMP_tenpura <tmptenpura@gmail.com>
-Depends: lightdm-webkit2-greeter
-Section: utils
-Priority: optional
-Description: lightdm-webkit2-greeter用のMicnoLinux向けのテーマ

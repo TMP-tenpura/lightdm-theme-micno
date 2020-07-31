@@ -1,2 +1,0 @@
-sed -i -e 's/#greeter-session=/greeter-session=lightdm-webkit2-greeter/' ls /etc/lightdm/lightdm.conf
-sed -e 's/^webkit_theme.*/webkit_theme        = lightdm-theme-micno/' /etc/lightdm/lightdm-webkit2-greeter.conf
